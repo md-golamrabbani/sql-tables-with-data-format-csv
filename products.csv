@@ -1,28 +1,301 @@
-pdt_id,pdt_name,color,price,quantity
-222222,Football Socks,White,11,46
-222223,Tough Dry Polo Shirt,Navy,18,28
-222224,Base Layer Leggings,Turquoise,11,28
-222225,Tough Dry T-Shirt,Royal Blue,16,50
-222226,V-Neck Wind Shirt,Red,18,36
-222227,Satin Baseball Jacket,Burgundy,10,42
-222228,Mid-Thigh Length Track Trousers,Orange,17,71
-222229,Volleyball Jersey,Yellow,15,44
-222230,Women's Volleyball Jersey,Green,12,56
-222231,Volleyball Shorts,Black,17,74
-222232,Women's Volleyball Shorts,Plum,18,29
-222233,Basic Tennis Jersey,Blue,10,75
-222234,Tough Dry Long Sleeve T-Shirt,Saxe,10,57
-222235,Basic Basketball Jersey,Light Pink,16,45
-222236,Basic Football Jersey,Light Green,10,24
-222237,Baseball Socks,Dark Navy,13,23
-222238,Track Top with Piping,Bright Pink,19,74
-222239,Half-Length Track Trousers with Piping,Light Grey,20,26
-222240,School T-Shirt,Navy,10,72
-222241,2-Button Baseball Jersey,Black,10,67
-222242,Basic Baseball Trousers,Grey,11,58
-222243,Women's Swimsuit,Silver,19,25
-222244,Rugby Socks,Teal,19,48
-222245,Quick-Dry Sweat Hoodie,Plum,19,64
-222246,Boxing Trunks,Blue,11,66
-222247,Men's Gymnastics Leotard,Saxe,14,62
-222248,Singlet,Light Pink,13,28
+pdt_id,cus_id,pdt_name,color,price,quantity
+200001,100161,Football Socks,White,16,2
+200002,100124,Tough Dry Polo Shirt,Navy,19,6
+200003,100095,Base Layer Leggings,Turquoise,20,13
+200004,100268,Tough Dry T-Shirt,Royal Blue,17,7
+200005,100228,V-Neck Wind Shirt,Red,17,6
+200006,100010,Satin Baseball Jacket,Burgundy,14,8
+200007,100258,Mid-Thigh Length Track Trousers,Orange,13,6
+200008,100029,Volleyball Jersey,Yellow,15,2
+200009,100089,Women's Volleyball Jersey,Green,16,5
+200010,100063,Volleyball Shorts,Black,14,3
+200011,100280,Women's Volleyball Shorts,Plum,12,15
+200012,100217,Basic Tennis Jersey,Blue,20,14
+200013,100090,Tough Dry Long Sleeve T-Shirt,Saxe,20,10
+200014,100074,Basic Basketball Jersey,Light Pink,14,2
+200015,100153,Basic Football Jersey,Light Green,14,5
+200016,100220,Baseball Socks,Dark Navy,12,15
+200017,100006,Track Top with Piping,Bright Pink,16,14
+200018,100145,Half-Length Track Trousers with Piping,Light Grey,11,7
+200019,100276,School T-Shirt,Navy,17,7
+200020,100126,2-Button Baseball Jersey,Black,11,13
+200021,100192,Basic Baseball Trousers,Grey,15,9
+200022,100024,Women's Swimsuit,Silver,11,8
+200023,100127,Rugby Socks,Teal,10,8
+200024,100056,Quick-Dry Sweat Hoodie,Plum,10,8
+200025,100147,Boxing Trunks,Blue,13,1
+200026,100018,Men's Gymnastics Leotard,Saxe,19,13
+200027,100054,Singlet,Light Pink,15,6
+200028,100280,Football Socks,White,11,9
+200029,100276,Tough Dry Polo Shirt,Navy,19,2
+200030,100227,Base Layer Leggings,Turquoise,18,15
+200031,100009,Tough Dry T-Shirt,Royal Blue,16,14
+200032,100008,V-Neck Wind Shirt,Red,17,8
+200033,100039,Satin Baseball Jacket,Burgundy,19,11
+200034,100283,Mid-Thigh Length Track Trousers,Orange,14,14
+200035,100220,Volleyball Jersey,Yellow,15,1
+200036,100084,Women's Volleyball Jersey,Green,11,12
+200037,100135,Volleyball Shorts,Black,12,8
+200038,100180,Women's Volleyball Shorts,Plum,14,13
+200039,100055,Basic Tennis Jersey,Blue,11,15
+200040,100117,Tough Dry Long Sleeve T-Shirt,Saxe,15,14
+200041,100232,Basic Basketball Jersey,Light Pink,15,13
+200042,100068,Basic Football Jersey,Light Green,19,9
+200043,100004,Baseball Socks,Dark Navy,20,6
+200044,100120,Track Top with Piping,Bright Pink,19,12
+200045,100268,Half-Length Track Trousers with Piping,Light Grey,20,9
+200046,100196,School T-Shirt,Navy,19,3
+200047,100076,2-Button Baseball Jersey,Black,11,11
+200048,100056,Basic Baseball Trousers,Grey,10,11
+200049,100009,Women's Swimsuit,Silver,19,1
+200050,100274,Rugby Socks,Teal,12,1
+200051,100209,Quick-Dry Sweat Hoodie,Plum,16,13
+200052,100027,Boxing Trunks,Blue,11,9
+200053,100225,Men's Gymnastics Leotard,Saxe,11,8
+200054,100199,Singlet,Light Pink,12,3
+200055,100250,Football Socks,White,12,6
+200056,100259,Tough Dry Polo Shirt,Navy,18,3
+200057,100197,Base Layer Leggings,Turquoise,14,3
+200058,100265,Tough Dry T-Shirt,Royal Blue,10,11
+200059,100089,V-Neck Wind Shirt,Red,20,3
+200060,100210,Satin Baseball Jacket,Burgundy,11,10
+200061,100215,Mid-Thigh Length Track Trousers,Orange,11,4
+200062,100271,Volleyball Jersey,Yellow,19,11
+200063,100192,Women's Volleyball Jersey,Green,19,7
+200064,100124,Volleyball Shorts,Black,20,6
+200065,100114,Women's Volleyball Shorts,Plum,18,3
+200066,100133,Basic Tennis Jersey,Blue,17,10
+200067,100162,Tough Dry Long Sleeve T-Shirt,Saxe,11,2
+200068,100241,Basic Basketball Jersey,Light Pink,10,5
+200069,100155,Basic Football Jersey,Light Green,11,5
+200070,100235,Baseball Socks,Dark Navy,12,4
+200071,100141,Track Top with Piping,Bright Pink,11,12
+200072,100049,Half-Length Track Trousers with Piping,Light Grey,18,13
+200073,100075,School T-Shirt,Navy,10,3
+200074,100153,2-Button Baseball Jersey,Black,13,3
+200075,100052,Basic Baseball Trousers,Grey,13,4
+200076,100064,Women's Swimsuit,Silver,13,4
+200077,100244,Rugby Socks,Teal,10,14
+200078,100104,Quick-Dry Sweat Hoodie,Plum,15,13
+200079,100287,Boxing Trunks,Blue,17,10
+200080,100076,Men's Gymnastics Leotard,Saxe,12,6
+200081,100118,Singlet,Light Pink,10,11
+200082,100089,Football Socks,White,18,15
+200083,100266,Tough Dry Polo Shirt,Navy,11,2
+200084,100068,Base Layer Leggings,Turquoise,11,5
+200085,100045,Tough Dry T-Shirt,Royal Blue,15,5
+200086,100048,V-Neck Wind Shirt,Red,14,11
+200087,100210,Satin Baseball Jacket,Burgundy,15,8
+200088,100185,Mid-Thigh Length Track Trousers,Orange,15,4
+200089,100207,Volleyball Jersey,Yellow,16,2
+200090,100268,Women's Volleyball Jersey,Green,14,15
+200091,100232,Volleyball Shorts,Black,13,12
+200092,100113,Women's Volleyball Shorts,Plum,18,11
+200093,100156,Basic Tennis Jersey,Blue,15,6
+200094,100003,Tough Dry Long Sleeve T-Shirt,Saxe,15,11
+200095,100175,Basic Basketball Jersey,Light Pink,16,13
+200096,100285,Basic Football Jersey,Light Green,13,12
+200097,100116,Baseball Socks,Dark Navy,15,12
+200098,100105,Track Top with Piping,Bright Pink,14,4
+200099,100029,Half-Length Track Trousers with Piping,Light Grey,18,15
+200100,100018,School T-Shirt,Navy,13,8
+200101,100023,2-Button Baseball Jersey,Black,20,8
+200102,100227,Basic Baseball Trousers,Grey,18,4
+200103,100181,Women's Swimsuit,Silver,11,11
+200104,100060,Rugby Socks,Teal,10,10
+200105,100006,Quick-Dry Sweat Hoodie,Plum,13,2
+200106,100029,Boxing Trunks,Blue,17,10
+200107,100274,Men's Gymnastics Leotard,Saxe,13,2
+200108,100081,Singlet,Light Pink,11,6
+200109,100077,Football Socks,White,19,12
+200110,100256,Tough Dry Polo Shirt,Navy,15,13
+200111,100254,Base Layer Leggings,Turquoise,15,3
+200112,100033,Tough Dry T-Shirt,Royal Blue,19,15
+200113,100255,V-Neck Wind Shirt,Red,19,11
+200114,100123,Satin Baseball Jacket,Burgundy,19,15
+200115,100127,Mid-Thigh Length Track Trousers,Orange,19,2
+200116,100156,Volleyball Jersey,Yellow,17,1
+200117,100259,Women's Volleyball Jersey,Green,13,6
+200118,100054,Volleyball Shorts,Black,12,3
+200119,100231,Women's Volleyball Shorts,Plum,17,9
+200120,100239,Basic Tennis Jersey,Blue,14,9
+200121,100139,Tough Dry Long Sleeve T-Shirt,Saxe,10,11
+200122,100036,Basic Basketball Jersey,Light Pink,14,2
+200123,100099,Basic Football Jersey,Light Green,17,12
+200124,100294,Baseball Socks,Dark Navy,10,2
+200125,100085,Track Top with Piping,Bright Pink,15,7
+200126,100143,Half-Length Track Trousers with Piping,Light Grey,16,1
+200127,100297,School T-Shirt,Navy,10,14
+200128,100090,2-Button Baseball Jersey,Black,17,2
+200129,100060,Basic Baseball Trousers,Grey,15,10
+200130,100174,Women's Swimsuit,Silver,10,6
+200131,100085,Rugby Socks,Teal,14,10
+200132,100113,Quick-Dry Sweat Hoodie,Plum,15,14
+200133,100114,Boxing Trunks,Blue,14,7
+200134,100138,Men's Gymnastics Leotard,Saxe,17,3
+200135,100278,Singlet,Light Pink,17,6
+200136,100267,Football Socks,White,19,1
+200137,100188,Tough Dry Polo Shirt,Navy,19,5
+200138,100267,Base Layer Leggings,Turquoise,13,3
+200139,100184,Tough Dry T-Shirt,Royal Blue,14,11
+200140,100041,V-Neck Wind Shirt,Red,13,2
+200141,100257,Satin Baseball Jacket,Burgundy,18,14
+200142,100134,Mid-Thigh Length Track Trousers,Orange,10,13
+200143,100241,Volleyball Jersey,Yellow,16,8
+200144,100246,Women's Volleyball Jersey,Green,13,9
+200145,100257,Volleyball Shorts,Black,12,9
+200146,100278,Women's Volleyball Shorts,Plum,10,7
+200147,100040,Basic Tennis Jersey,Blue,18,1
+200148,100029,Tough Dry Long Sleeve T-Shirt,Saxe,12,10
+200149,100010,Basic Basketball Jersey,Light Pink,11,9
+200150,100215,Basic Football Jersey,Light Green,10,3
+200151,100295,Baseball Socks,Dark Navy,14,6
+200152,100152,Track Top with Piping,Bright Pink,13,5
+200153,100219,Half-Length Track Trousers with Piping,Light Grey,18,7
+200154,100194,School T-Shirt,Navy,10,1
+200155,100295,2-Button Baseball Jersey,Black,19,7
+200156,100201,Basic Baseball Trousers,Grey,14,2
+200157,100165,Women's Swimsuit,Silver,19,2
+200158,100040,Rugby Socks,Teal,20,4
+200159,100131,Quick-Dry Sweat Hoodie,Plum,14,1
+200160,100214,Boxing Trunks,Blue,15,8
+200161,100211,Men's Gymnastics Leotard,Saxe,17,8
+200162,100007,Singlet,Light Pink,18,15
+200163,100059,Football Socks,White,17,5
+200164,100229,Tough Dry Polo Shirt,Navy,18,1
+200165,100061,Base Layer Leggings,Turquoise,20,6
+200166,100103,Tough Dry T-Shirt,Royal Blue,13,9
+200167,100285,V-Neck Wind Shirt,Red,20,7
+200168,100102,Satin Baseball Jacket,Burgundy,19,2
+200169,100199,Mid-Thigh Length Track Trousers,Orange,12,13
+200170,100194,Volleyball Jersey,Yellow,11,4
+200171,100133,Women's Volleyball Jersey,Green,10,12
+200172,100055,Volleyball Shorts,Black,13,3
+200173,100194,Women's Volleyball Shorts,Plum,19,1
+200174,100289,Basic Tennis Jersey,Blue,17,5
+200175,100095,Tough Dry Long Sleeve T-Shirt,Saxe,12,10
+200176,100219,Football Socks,Light Pink,17,11
+200177,100213,Tough Dry Polo Shirt,Light Green,10,7
+200178,100067,Base Layer Leggings,Dark Navy,19,6
+200179,100259,Tough Dry T-Shirt,Bright Pink,19,6
+200180,100009,V-Neck Wind Shirt,Light Grey,14,9
+200181,100220,Satin Baseball Jacket,Navy,12,6
+200182,100037,Mid-Thigh Length Track Trousers,Black,20,15
+200183,100094,Volleyball Jersey,Grey,12,2
+200184,100146,Women's Volleyball Jersey,Silver,11,9
+200185,100137,Volleyball Shorts,Teal,20,10
+200186,100099,Women's Volleyball Shorts,Plum,19,4
+200187,100110,Basic Tennis Jersey,Blue,11,12
+200188,100201,Tough Dry Long Sleeve T-Shirt,Saxe,14,6
+200189,100286,Basic Basketball Jersey,Light Pink,12,5
+200190,100093,Basic Football Jersey,White,13,2
+200191,100221,Baseball Socks,Navy,18,5
+200192,100134,Track Top with Piping,Turquoise,12,3
+200193,100082,Half-Length Track Trousers with Piping,Royal Blue,11,15
+200194,100079,School T-Shirt,Red,17,9
+200195,100015,2-Button Baseball Jersey,Burgundy,19,2
+200196,100234,Basic Baseball Trousers,Orange,13,8
+200197,100237,Women's Swimsuit,Yellow,19,12
+200198,100294,Rugby Socks,Green,16,6
+200199,100216,Quick-Dry Sweat Hoodie,Black,11,6
+200200,100182,Boxing Trunks,Plum,13,8
+200201,100076,Men's Gymnastics Leotard,Blue,20,11
+200202,100085,Singlet,Saxe,16,10
+200203,100262,Football Socks,Light Pink,12,15
+200204,100054,Tough Dry Polo Shirt,Light Green,17,12
+200205,100278,Base Layer Leggings,Dark Navy,13,11
+200206,100271,Tough Dry T-Shirt,Bright Pink,11,6
+200207,100080,V-Neck Wind Shirt,Light Grey,19,11
+200208,100275,Satin Baseball Jacket,Navy,14,11
+200209,100219,Mid-Thigh Length Track Trousers,Black,12,4
+200210,100073,Volleyball Jersey,Grey,13,10
+200211,100210,Women's Volleyball Jersey,Silver,10,14
+200212,100271,Volleyball Shorts,Teal,14,14
+200213,100140,Women's Volleyball Shorts,Plum,10,3
+200214,100135,Basic Tennis Jersey,Blue,16,2
+200215,100056,Tough Dry Long Sleeve T-Shirt,Saxe,15,6
+200216,100209,Basic Basketball Jersey,Light Pink,20,6
+200217,100009,Basic Football Jersey,White,20,3
+200218,100116,Baseball Socks,Navy,12,7
+200219,100249,Track Top with Piping,Turquoise,20,1
+200220,100169,Half-Length Track Trousers with Piping,Royal Blue,11,4
+200221,100038,School T-Shirt,Red,20,8
+200222,100121,2-Button Baseball Jersey,Burgundy,13,11
+200223,100288,Basic Baseball Trousers,Orange,14,4
+200224,100085,Women's Swimsuit,Yellow,20,10
+200225,100129,Rugby Socks,Green,18,3
+200226,100016,Quick-Dry Sweat Hoodie,Black,19,8
+200227,100022,Boxing Trunks,Plum,11,7
+200228,100153,Men's Gymnastics Leotard,Blue,19,15
+200229,100290,Singlet,Saxe,17,6
+200230,100196,Football Socks,Light Pink,16,13
+200231,100196,Tough Dry Polo Shirt,Light Green,20,2
+200232,100148,Base Layer Leggings,Dark Navy,12,7
+200233,100137,Tough Dry T-Shirt,Bright Pink,18,10
+200234,100264,V-Neck Wind Shirt,Light Grey,20,10
+200235,100241,Satin Baseball Jacket,Navy,10,8
+200236,100025,Mid-Thigh Length Track Trousers,Black,13,9
+200237,100243,Volleyball Jersey,Grey,12,8
+200238,100203,Women's Volleyball Jersey,Silver,20,2
+200239,100078,Volleyball Shorts,Teal,17,13
+200240,100275,Women's Volleyball Shorts,Plum,15,2
+200241,100091,Basic Tennis Jersey,Blue,17,6
+200242,100025,Tough Dry Long Sleeve T-Shirt,Saxe,16,14
+200243,100024,Basic Basketball Jersey,Light Pink,10,9
+200244,100230,Basic Football Jersey,White,17,2
+200245,100045,Baseball Socks,Navy,19,9
+200246,100268,Track Top with Piping,Turquoise,14,13
+200247,100278,Half-Length Track Trousers with Piping,Royal Blue,10,3
+200248,100211,School T-Shirt,Red,16,7
+200249,100296,2-Button Baseball Jersey,Burgundy,10,4
+200250,100050,Basic Baseball Trousers,Orange,20,13
+200251,100209,Women's Swimsuit,Yellow,16,10
+200252,100260,Rugby Socks,Green,16,4
+200253,100080,Quick-Dry Sweat Hoodie,Black,13,14
+200254,100071,Boxing Trunks,Plum,17,2
+200255,100168,Men's Gymnastics Leotard,Blue,13,3
+200256,100046,Singlet,Saxe,15,13
+200257,100119,Football Socks,Light Pink,20,8
+200258,100006,Tough Dry Polo Shirt,Light Green,10,1
+200259,100110,Base Layer Leggings,Dark Navy,11,11
+200260,100198,Tough Dry T-Shirt,Bright Pink,19,13
+200261,100298,V-Neck Wind Shirt,Light Grey,17,6
+200262,100156,Satin Baseball Jacket,Navy,14,2
+200263,100096,Mid-Thigh Length Track Trousers,Black,17,7
+200264,100194,Volleyball Jersey,Grey,12,6
+200265,100287,Women's Volleyball Jersey,Silver,17,6
+200266,100252,Volleyball Shorts,Teal,18,10
+200267,100291,Women's Volleyball Shorts,Plum,12,11
+200268,100250,Basic Tennis Jersey,Blue,20,12
+200269,100198,Tough Dry Long Sleeve T-Shirt,Saxe,19,9
+200270,100187,Basic Basketball Jersey,Light Pink,18,4
+200271,100017,Basic Football Jersey,White,14,2
+200272,100250,Baseball Socks,Navy,12,6
+200273,100066,Track Top with Piping,Turquoise,16,1
+200274,100075,Half-Length Track Trousers with Piping,Royal Blue,13,10
+200275,100108,School T-Shirt,Red,10,12
+200276,100202,2-Button Baseball Jersey,Burgundy,12,8
+200277,100288,Basic Baseball Trousers,Orange,13,5
+200278,100166,Women's Swimsuit,Yellow,16,15
+200279,100270,Rugby Socks,Green,12,6
+200280,100198,Quick-Dry Sweat Hoodie,Black,20,1
+200281,100075,Boxing Trunks,Plum,12,11
+200282,100119,Men's Gymnastics Leotard,Blue,20,15
+200283,100216,Singlet,Saxe,19,5
+200284,100027,Football Socks,Light Pink,12,8
+200285,100288,Tough Dry Polo Shirt,Light Green,13,8
+200286,100213,Base Layer Leggings,Dark Navy,16,12
+200287,100071,Tough Dry T-Shirt,Bright Pink,17,3
+200288,100022,V-Neck Wind Shirt,Light Grey,17,9
+200289,100019,Satin Baseball Jacket,Navy,19,8
+200290,100012,Mid-Thigh Length Track Trousers,Black,12,8
+200291,100214,Volleyball Jersey,Grey,19,4
+200292,100269,Women's Volleyball Jersey,Silver,19,8
+200293,100255,Volleyball Shorts,Teal,19,12
+200294,100053,Women's Volleyball Shorts,Plum,17,4
+200295,100077,Basic Tennis Jersey,Blue,10,6
+200296,100041,Tough Dry Long Sleeve T-Shirt,Saxe,17,3
+200297,100216,Basic Basketball Jersey,Light Pink,14,14
+200298,100204,Basic Football Jersey,White,12,5
+200299,100107,Baseball Socks,Navy,14,6
+200300,100004,Track Top with Piping,Turquoise,15,12
